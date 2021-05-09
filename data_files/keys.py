@@ -1,0 +1,20 @@
+
+CTRL_C = 7         
+CTRL_H = 2         
+CTRL_J = 14        
+CTRL_K = 16        
+CTRL_L = 6         
+CTRL_F = 8         
+ENTER = 13         
+CTRL_U = 11        
+ESC = 27           
+BACKSPACE =  127   
+TAB = 9            
+RIGHT = -1         
+DOWN = -2          
+UP = -3            
+LEFT = -4          
+SHIFTTAB = -5      
+SHIFTENTER = -6
+SPACE = 32
+ANTISLASH = 47
